@@ -1,3 +1,4 @@
+<img src="https://github.com/junglerun/Dash/tree/master/image/junglerun1.png">
 # Dash
 <h2>1.Project Title:</h2>
 
@@ -60,6 +61,7 @@
 <h2>7.User Interface</h2>
 <ol type ="I">
 <li>Home Page</li>
+ <img src="https://github.com/junglerun/Dash/tree/master/image/home.png"
  
 
 
