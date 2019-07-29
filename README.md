@@ -1,4 +1,7 @@
-<img src="https://github.com/junglerun/Dash/tree/master/image/junglerun1.png">
+<h1 align="center">
+  <br>
+  <a><img src="https://raw.githubusercontent.com/junglerun/Dash/master/image/junglerun1.png"  alt="Jungle Run"></a></h1>
+
 # Dash
 <h2>1.Project Title:</h2>
 
@@ -36,7 +39,7 @@
 <li>Internet Explorer 11+ (Windows only)</li>
 </ol>
 
-<h2>5.Functional Requirements</h2>
+<h2>5.Functional Requirements:</h2>
 <ol type = "I">
 <li>Player can jump and slide to cross the hurdles.</li>
 <li>Hurdles will come continuously but random.</li>
@@ -48,7 +51,7 @@
 <li>Every level will increase speed of the game and will count of hurdles.</li>
 <li>Apply jungle theme in background.</li>
 </ol>
-<h2>6. Technology Used</h2>
+<h2>6.Technology Used:</h2>
 <ol type = "I">
  <li>Three JS</li>
  <li>HTML5</li>
@@ -58,24 +61,21 @@
  <li>Tween JS</li>
 </ol>
  
-<h2>7.User Interface</h2>
+<h2>7.User Interface:</h2>
+
 <ol type ="I">
-<li>Home Page</li>
- <img src="https://github.com/junglerun/Dash/tree/master/image/home.png"
+<li>Home Page</li></ol>
+<img src="https://raw.githubusercontent.com/junglerun/Dash/master/image/home1.jpg">
  
+<ol type="I" start="2">
+<li>Storyline</li></ol>
+<img src="https://raw.githubusercontent.com/junglerun/Dash/master/image/story1.jpg">
 
+<ol type="I" start="3">
+<li>Game Screen</li></ol>
+<img src="https://raw.githubusercontent.com/junglerun/Dash/master/image/ss.png">
 
-
-
-<li>Storyline</li>
- 
-
-<li>Game Screen</li>
- 
-</ol>
-
-
-<h2>8.Contributors</h2>
+<h2>8.Contributors:</h2>
 <ol type = "I">
 <li>	Anuj Jaiswal</li>
 <li>Dewanshu Chhatlani</li>
@@ -85,7 +85,7 @@
 <li>Shubham Verma</li>
 </ol>
 
-<h2>9.References</h2>
+<h2>9.References:</h2>
 <ol type = "I">
  <li>[1]"three.js – Javascript 3D library", Threejs.org, 2019. [Online]. Available: https://threejs.org/.</li>
 <li>[2]"Skyboxes for download", Custommapmakers.org, 2019. [Online]. Available: http://www.custommapmakers.org/skyboxes.php.</li>
@@ -93,6 +93,6 @@
 <li>[4]"Sketchfab - Publish & find 3D models online", Sketchfab, 2019. [Online]. Available: https://sketchfab.com/.</li> 
 <li>[5]"W3Schools Online Web Tutorials", W3schools.com, 2019. [Online]. Available: https://www.w3schools.com/.</li>
 </ol>
-<h2>10.Source Code Link</h2>
+<h2>10.Source Code Link:</h2>
 
 
