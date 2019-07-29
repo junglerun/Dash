@@ -2,7 +2,7 @@
   <br>
   <a><img src="https://raw.githubusercontent.com/junglerun/Dash/master/image/junglerun1.png"  alt="Jungle Run"></a></h1>
 
-# Dash
+<h1 align="center"> Team Dash</h1>
 <h2>1.Project Title:</h2>
 
 <p>Jungle Run</p>
@@ -17,13 +17,13 @@
 <h2>4. Requirement Specification:</h2>
 <p>Here is a list of the minimum Hardware and Software requirements for playing this game:-</p>
 
-<ol type = "I">Operating System:
- <li> Windows 7</li> 
+<h4>Operating System:</h4>
+<ol type = "I"> <li> Windows 7</li> 
  <li>Windows 8 </li>
  <li>Windows 10</li>
 </ol>
-<ol type= "I">Hardware:
- <li>Processor (CPU) with 2 gigahertz (GHz) frequency or above</li>
+<h4>Hardware:</h4>
+<ol type= "I"> <li>Processor (CPU) with 2 gigahertz (GHz) frequency or above</li>
  <li>A minimum of 2 GB of RAM</li>
  <li>Monitor Resolution 1024 X 768 or higher</li>
  <li>Internet Connection Broadband (high-speed) with a speed of 4 Mbps or more</li>
@@ -31,8 +31,8 @@
  <li>Sound card</li>
  <li>Speakers or headphones</li>
 </ol>
-<ol type= "I"> Browsers:
-
+<h4>Browsers:</h4>
+<ol type= "I">
 <li>Chrome 36+</li>
 <li>Edge 20+</li>
 <li>Mozilla Firefox 31+</li>
